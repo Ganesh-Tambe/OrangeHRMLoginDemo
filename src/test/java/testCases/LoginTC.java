@@ -22,7 +22,7 @@ public class LoginTC extends baseClass {
 		login.Loginbtn.click();
 		Assert.assertEquals(driver.getTitle(), "OrangeHRM");
 	}
-	
+	//Data With Excel File
 	@Test(dataProvider="LoginData")
 	public void LoginWithExcelData(String UserName, String Password,String TC)
 	{
