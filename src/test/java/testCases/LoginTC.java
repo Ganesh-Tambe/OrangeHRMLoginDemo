@@ -43,14 +43,6 @@ public class LoginTC extends baseClass {
 			
 			
 		}
-//		if(URL.equals("https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"))
-//		{
-//			Assert.assertEquals(URL, "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index");
-//		}
-//		else
-//		{
-//			Assert.assertEquals(URL,"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
-//		}
 		
 	}
 	
